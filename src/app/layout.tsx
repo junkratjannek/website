@@ -20,3 +20,12 @@ export default function RootLayout({
     </html>
   );
 }
+
+
+{/* <header>
+        <div>
+        <button type="button" onClick={() => router.push("/about")} className="bg-gray-700 text-blue-500 w-20 rounded-lg pt-1 pb-1 pl-3 pr-3">About</button> 
+      <button type="button" onClick={() => router.push("/projects")} className="bg-gray-700 text-blue-500 w-20 rounded-lg pt-1 pb-1 pl-3 pr-3">Projects</button>
+    <button type="button" onClick={() => router.push("/Business")} className="bg-gray-700 text-blue-500 w-32 rounded-lg pt-1 pb-1 pl-3 pr-3">Business</button>  
+    <button type="button" onClick={() => router.push("/travel")} className="bg-gray-700 text-blue-500 w-32 rounded-lg pt-1 pb-1 pl-3 pr-3">Travel</button> </div></header>
+   */}
