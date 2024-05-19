@@ -11,7 +11,7 @@
 First, run the development server:
 
 ```bash
-pnpm dev
+pnpm run dev
 ```
 
 <br /> <br />
