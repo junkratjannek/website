@@ -6,8 +6,10 @@ export default function Travel() {
   return (
     <div>
       <div className={twMerge(TextStyles.H1, "")}>Travel</div>
-      <div className="">In this page I want to share my travel expereriences.</div>
-      <TravelDestination /> 
+      <div className="">
+        In this page I want to share my travel expereriences.
+      </div>
+      <TravelDestination />
     </div>
   );
 }
